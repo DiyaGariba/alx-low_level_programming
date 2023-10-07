@@ -19,7 +19,7 @@ int main(void)
 	fTens = num / 10;
 	fOnes = num % 10;
 
-	for (num2 = 0 ; num <= 9 ; num2++)
+	for (num2 = 0 ; num2 <= 9 ; num2++)
 	{
 		sTens = num2 / 10;
 		sOnes = num2 % 10;
