@@ -1,0 +1,1 @@
+solutions to structures typedef
